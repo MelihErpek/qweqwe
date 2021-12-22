@@ -1,0 +1,16 @@
+.App {
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 600;
+  color: #44444f;
+  font-size:20px;
+}
+
+.first {
+  font-weight:900;
+  font-size:27px;
+}
+
+.second {
+  font-size: 16px;
+  color:#92929d;
+}
